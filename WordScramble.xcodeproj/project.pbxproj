@@ -12,7 +12,7 @@
 		B1B134062832033300DC3E8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1B134052832033300DC3E8C /* Assets.xcassets */; };
 		B1B134092832033300DC3E8C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1B134082832033300DC3E8C /* Preview Assets.xcassets */; };
 		B1E0F47D283367F600E714BB /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B1E0F47C283367F600E714BB /* start.txt */; };
-		B1F281CB28B8ADBB00BD0C65 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B1F281CA28B8ADBB00BD0C65 /* README.md */; };
+		B1F281CD28B8B1F900BD0C65 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B1F281CC28B8B1F900BD0C65 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +22,7 @@
 		B1B134052832033300DC3E8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1B134082832033300DC3E8C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1E0F47C283367F600E714BB /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
-		B1F281CA28B8ADBB00BD0C65 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = WordScramble/README.md; sourceTree = "<group>"; };
+		B1F281CC28B8B1F900BD0C65 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,7 +39,7 @@
 		B1B133F52832033000DC3E8C = {
 			isa = PBXGroup;
 			children = (
-				B1F281CA28B8ADBB00BD0C65 /* README.md */,
+				B1F281CC28B8B1F900BD0C65 /* README.md */,
 				B1B134002832033100DC3E8C /* WordScramble */,
 				B1B133FF2832033100DC3E8C /* Products */,
 			);
@@ -133,7 +133,7 @@
 			files = (
 				B1B134092832033300DC3E8C /* Preview Assets.xcassets in Resources */,
 				B1E0F47D283367F600E714BB /* start.txt in Resources */,
-				B1F281CB28B8ADBB00BD0C65 /* README.md in Resources */,
+				B1F281CD28B8B1F900BD0C65 /* README.md in Resources */,
 				B1B134062832033300DC3E8C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
