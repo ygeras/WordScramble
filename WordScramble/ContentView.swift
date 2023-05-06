@@ -118,7 +118,7 @@ struct ContentView: View {
             // load start.txt into a string
             if let startWords = try? String(contentsOf: startWordsURL) {
                 let allWords = startWords.components(separatedBy: "\n")
-                // pick one randow word, or use "silkworm as a sensible default
+                // pick one random word, or use "silkworm as a sensible default
                 rootWord = allWords.randomElement() ?? "silkworm"
                 // clear any used words in the usedWords array if any
                 usedWords.removeAll()
